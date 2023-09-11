@@ -1,1 +1,1 @@
-Mini-Project to studie using hexagnal estructure, sqlite3 and mock to tests.
+Mini-Project to studie using hexagonal architecture, sqlite3 and mock to tests.
